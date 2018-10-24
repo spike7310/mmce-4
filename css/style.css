@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:300i|Notable");
+body {
+  background-color: #040404;
+}
+
+.logo img {
+  max-widht: 100%;
+  height: 450px;
+  position: relative, top;
+}
+
+.hudson div {
+  width: 350px;
+  height: 350px;
+  margin: auto;
+}
+
+.mediterraneo div {
+  width: 350px;
+  height: 350px;
+}
+
+.vacaciones div {
+  width: 350px;
+  heigt: 350px;
+}
+
+footer {
+  width: 100%;
+  display: inline-block;
+  background-color: #fd2de0;
+  float: right;
+}
+
+.creditos p {
+  display: inline-block;
+  float: right;
+  color: #005584;
+  font-family: "Notable", sans-serif;
+}
+
+/*# sourceMappingURL=style.css.map */

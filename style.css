@@ -1,0 +1,21 @@
+header {
+  background-color: #040404;
+}
+
+#hudson {
+  width: 350px;
+  height: 350px;
+  text-aling: center;
+}
+
+body {
+  background-color: #040404;
+}
+
+footer {
+  color: #005584;
+  background-color: #005584;
+  font-family: Helvetica, sans-serif;
+}
+
+/*# sourceMappingURL=style.css.map */

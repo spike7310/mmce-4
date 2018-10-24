@@ -1,14 +1,52 @@
-$#040404
-$#005584
-$#fd2de0
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300i|Notable');
+
+$color-principal:#040404;
+$color-secundario:#fd2de0;
+$color-terciario:#005584;
+$fuente-titulos: Montserrat, sans-serif;
+$fuente-secundaria:'Notable', sans-serif;
 
 
-header{
 
+body{
+	background-color: $color-principal;
 }
+
+.logo img{
+		max-widht: 100%;
+		height: 450px;
+		position: relative, top;
+}
+
+
+
+.hudson div{
+	width: 350px;
+	height: 350px;
+	margin: auto;
+}
+
+
+.mediterraneo div{
+	width: 350px;
+	height: 350px;
+
+}.vacaciones div{
+	width: 350px;
+	heigt: 350px;
+}
+
+
 
 footer{
-	background-colour:$005584;
+	width: 100%;
+	display: inline-block;
+	background-color: $color-secundario;
+	float: right;
+}		
+.creditos p{
+	display: inline-block;
+	float: right;
+	color: $color-terciario;
+	font-family: $fuente-secundaria;
 }
-
-
